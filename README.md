@@ -5,7 +5,7 @@
 ## Hi, I'm @alvaro-olivares-flores! 👋.
 
 👀 I’m really into software architecture, SaaS development, AI and Cloud.
-👩‍💻 I'm currently working on Zentry by fiscatec, a compliance software for co-owner condominiums in Chile.
+👩‍💻 I'm currently working on Fiscatec, a regtech and compliance company developing AI agents, document analysis tools, and advanced regulatory software solutions for the Chilean market.
 
 - 📫 How to reach me: alvaro.olivares@fiscatec.cl or alvaro.olivares.flores@gmail.com
 
@@ -19,16 +19,16 @@
     HTML, CSS, JS, TypeScript, React.js
 
 - #### Back-end
-    Node.js, Express, FastAPI, GraphQL, Prisma
+    Node.js, Express, NestJS, FastAPI, GraphQL, Prisma ORM
 
-- #### Data and IA
+- #### Data & IA
     SQL, Python, Pythorch, MS Excel
 
 - #### Infrastructure
-    AWS, G Cloud, GitHub Action, Bash
+    AWS, GCP, GitHub Action, Bash
 
 - #### Tools
-    Git, Linux, Docker, Jupyter 
+    Git, Linux, Bash, Docker, Jupyter 
 
 - #### Microcontrollers
     C, PSoC Creator,  C++, Arduino
